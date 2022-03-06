@@ -1,0 +1,6 @@
+fl=float(input("Enter the floor length:"))
+fb=float(input("Enter the floor breadth:"))
+tl=float(input("Enter the tiles length:"))
+tb=float(input("Enter the tiles breadth:"))
+no.of tiles=(fl*fb)/(tl*tb)
+print(The number of tiles required=",no.of tiles)
