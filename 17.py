@@ -1,0 +1,8 @@
+a=int(input("Enter the number a:"))
+b=int(input("Enter the number b:"))
+c=int(input("Enter the number c:"))
+d=(b**2)-(4*a*c)
+print("The value of discriminant is",D)
+sol1=(-b+D**0.5/2*a)
+sol2=(+b-D**0.5/2*a)
+print("The root of this quadratic equation are",sol1 and sol2)
